@@ -38,24 +38,24 @@ body {
 
 .logo,
 .nav-link-item,
-.nav-contact-item {
+.contact-item {
   text-decoration: none;
 }
 
 .nav-link,
-.nav-contact {
+.contact {
   list-style-type: none;
 }
 
 .nav-link-item,
-.nav-contact-item {
+.contact-item {
   font-weight: 500;
   line-height: 1.41;
   letter-spacing: 0.02em;
   color: var(--brand-color);
 }
 
-.nav-contact-item {
+.contact-item {
   color: var(--secondary-color);
 }
 
@@ -256,9 +256,9 @@ body {
 /* effects */
 
 .nav-link-item:hover,
-.nav-contact-item:hover,
+.contact-item:hover,
 .nav-link-item:focus,
-.nav-contact-item:focus,
+.contact-item:focus,
 .footer-contact-link:hover,
 .footer-contact-link:focus,
 .footer-contact-item:hover,
